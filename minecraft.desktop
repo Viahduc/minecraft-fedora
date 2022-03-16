@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=Game;ActionGame;AdventureGame;
+Exec=/opt/minecraft/bin/Minecraft
+Path=/opt/minecraft/bin/
+Icon=minecraft.png
+Terminal=false
+Type=Application
+Name=Minecraft
+Comment=The world's most exciting block simulator, now on Fedora!
